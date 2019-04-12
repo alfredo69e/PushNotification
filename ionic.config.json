@@ -1,5 +1,7 @@
 {
   "name": "PushNotification",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
